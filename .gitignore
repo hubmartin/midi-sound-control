@@ -1,0 +1,5 @@
+alsaaudio
+core
+rtmidi
+subprocess
+.vscode/settings.json
